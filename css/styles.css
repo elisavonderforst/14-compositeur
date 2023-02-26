@@ -13,3 +13,12 @@ h1 {
   font-size: 31px;
   font-family: 'Rubik Mono One', sans-serif;
 }
+
+p,
+td {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 15px;
+}
+
+
+
