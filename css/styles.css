@@ -30,6 +30,14 @@ td {
   font-size: 15px;
 }
 
+a {
+  background: #E95E2E;
+  text-decoration: none;
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 13px;
+}
+
 .legende {
   font-size: 13px;
 }
