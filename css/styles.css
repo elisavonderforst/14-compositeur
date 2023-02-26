@@ -14,6 +14,16 @@ h1 {
   font-family: 'Rubik Mono One', sans-serif;
 }
 
+h2 {
+  font-family: 'Rubik Mono One', sans-serif;
+  font-size: 22px;
+}
+
+h3 {
+  font-family: 'Rubik Mono One', sans-serif;
+  font-size: 18px;
+}
+
 p,
 td {
   font-family: 'Roboto Condensed', sans-serif;
