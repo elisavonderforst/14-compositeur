@@ -8,3 +8,8 @@ img {
   display: block;
   max-width: 100%;
 }
+
+h1 {
+  font-size: 31px;
+  font-family: 'Rubik Mono One', sans-serif;
+}
