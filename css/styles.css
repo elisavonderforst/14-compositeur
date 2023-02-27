@@ -2,10 +2,8 @@ body {
   max-width: 320px;
   margin: auto;
   background: white;
-  background-image: url("../img/background-image.png");
   background-position: center;
   background-size: 400px;
-  margin-top: 19px;
 }
 
 img {
@@ -16,6 +14,7 @@ img {
 h1 {
   font-size: 31px;
   font-family: 'Rubik Mono One', sans-serif;
+  margin-top: 0;
 }
 
 h2 {
@@ -55,6 +54,7 @@ a {
 
 .image-header {
   margin-top: 27px;
+  margin-bottom: 0px;
 }
 
 .legende {
