@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   max-width: 320px;
   margin: auto;
@@ -45,6 +49,8 @@ a {
   margin-top: 11px;
   border-radius: 15px;
 }
+
+
 
 .container {
   display: flex;
