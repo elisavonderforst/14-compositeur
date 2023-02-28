@@ -9,7 +9,6 @@ body {
   background-size: 400px;
   background-image: url(../img/background-image.svg);
   background-repeat: no-repeat;
-  background-position-y: top;
 }
 
 img {
@@ -27,6 +26,7 @@ h1 {
 h2 {
   font-family: 'Climate Crisis', cursive;
   font-size: 20px;
+  margin: 8px;
 }
 
 h3 {
@@ -54,6 +54,10 @@ a {
 iframe {
   margin-top: 34px;
   margin-bottom: 8.5px;
+}
+
+footer {
+  text-align: center;
 }
 
 .container {
@@ -85,11 +89,12 @@ iframe {
 .hr-noir {
   border-color: black;
   margin-top: 40px;
+  margin-right: -28px;
 }
 
 .hr-orange {
   border-color: #E95E2E;
-
+  margin-left: -28px;
 }
 
 .legende-stanley {
@@ -99,4 +104,27 @@ iframe {
 .footer-1 {
   font-family: 'Climate Crisis', cursive;
   color: white;
+  margin-bottom: 8px;
+  font-size: 11px;
+}
+
+.footer-2 {
+  font-family: 'Climate Crisis', cursive;
+  font-size: 11px;
+  margin-top: 0;
+}
+
+.footer-3 {
+  font-family: 'Climate Crisis', cursive;
+  font-size: 18px;
+  margin-top: 0;
+}
+
+.remonter {
+  max-width: 40px;
+  margin-left: 140px;
+}
+
+.remonter-a {
+  op
 }
