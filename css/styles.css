@@ -18,20 +18,18 @@ img {
 }
 
 h1 {
-  font-size: 31px;
-  font-family: 'Rubik Mono One', sans-serif;
+  font-size: 33px;
+  font-family: 'Climate Crisis', cursive;
   margin-top: 0;
-  word-spacing: 2.5px;
-  letter-spacing: 0.25;
 }
 
 h2 {
-  font-family: 'Rubik Mono One', sans-serif;
-  font-size: 22px;
+  font-family: 'Climate Crisis', cursive;
+  font-size: 20px;
 }
 
 h3 {
-  font-family: 'Rubik Mono One', sans-serif;
+  font-family: 'Climate Crisis', cursive;
   font-size: 18px;
 }
 
@@ -71,7 +69,7 @@ iframe {
 
 .wendy-carlos {
   margin-top: 30px;
-  margin-bottom: 8.5px;
+  margin-bottom: 0;
 } 
 
 .legende {
@@ -83,10 +81,6 @@ iframe {
   background-image: url(../img/footer_fond.png);
 }
 
-.table {
-  font-size: 10px;
-}
-
 .legende-musique {
   font-size: 13px;
   margin-top: 0;
@@ -94,8 +88,15 @@ iframe {
 
 .hr-noir {
   border-color: black;
+  margin-top: 40px;
 }
 
 .hr-orange {
   border-color: #E95E2E;
+
+}
+
+.legende-stanley {
+  margin-bottom: 60px;
+  font-size: 13px;
 }
