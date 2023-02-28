@@ -75,6 +75,10 @@ iframe {
   margin-bottom: 8.5px;
 }
 
+span {
+  color: white;
+}
+
 footer {
   text-align: center;
   margin-bottom: 20px;
