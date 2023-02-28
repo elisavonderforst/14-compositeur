@@ -9,6 +9,8 @@ body {
   background-size: 400px;
   background-image: url(../img/background_image_plus_court.svg);
   background-repeat: no-repeat;
+  background-position-y: bottom;
+  background-position-x: center;
 }
 
 img {
@@ -104,16 +106,43 @@ footer {
 }
 
 .archives {
-  margin-bottom: 280px;
+  margin-bottom: 204px;
 }
 
 .alex-1 {
-  max-width: 475px;
+  max-width: 245px;
+  margin-top: 70px;
+}
+
+.alex-2 {
+  max-width: 200px;
+  margin-top: 70px;
+}
+
+.alex-3 {
+  max-width: 243px;
+  margin-left: 70px;
+  margin-top: 70px;
+}
+
+.legende-bandes-3 {
+  margin-left: 112px;
+  font-size: 13px;
+}
+
+.alex-4 {
+  max-width: 253px;
+  margin-top: 70px;
+  margin-left: 30px;
+}
+
+.legende-bandes-4 {
+  margin-left: 30px;
 }
 
 .alex-5 {
   max-width:270px;
-  margin-top: 80px;
+  margin-top: 70px;
 }
 
 .footer-1 {
