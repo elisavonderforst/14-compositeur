@@ -102,13 +102,13 @@ footer {
   margin-top: 30px;
 } 
 
-.legende-wendy {
+.legend-wendy {
   font-size: 13px;
   margin-left: 40px;
   font-weight: 700;
 }
 
-.hr-noir {
+.hr-black {
   border: 1.5px solid black;
   margin-top: 70px;
   margin-right: -28px;
@@ -129,17 +129,17 @@ footer {
   margin-top: 41px;
 }
 
-.legende-stanley {
+.legend-stanley {
   font-size: 13px;
   margin-left: 20px;
   font-weight: 700;
 }
 
-.musique-text {
+.music-text {
   margin-bottom: 40px;
 }
 
-.legende-musique {
+.legend-music {
   font-size: 13px;
   margin-top: 0;
   font-weight: 700;
@@ -159,7 +159,7 @@ footer {
   margin-left: -10px;
 }
 
-.legende-bande-1 {
+.legend-band-1 {
   font-size: 13px;
   margin-left: 55px;
   font-weight: 700;
@@ -171,7 +171,7 @@ footer {
   margin-left: 21px;
 }
 
-.legende-bande-2 {
+.legend-band-2 {
   font-size: 13px;
   margin-left: 21px;
   font-weight: 700;
@@ -183,7 +183,7 @@ footer {
   margin-top: 70px;
 }
 
-.legende-bande-3 {
+.legend-band-3 {
   margin-left: 112px;
   font-size: 13px;
   font-weight: 700;
@@ -195,7 +195,7 @@ footer {
   margin-left: 30px;
 }
 
-.legende-bande-4 {
+.legend-band-4 {
   margin-left: 30px;
   font-size: 13px;
   font-weight: 700;
@@ -207,7 +207,7 @@ footer {
   margin-left: 30px;
 }
 
-.legende-bande-5 {
+.legend-band-5 {
   font-size: 13px;
   margin-left: 30px;
   font-weight: 700;
@@ -235,13 +235,13 @@ footer {
   letter-spacing: 1px;
 }
 
-.remonter {
+.go-back-up {
   max-width: 35px;
   margin-left: 140px;
   padding: 10px;
 }
 
-.remonter-a {
+.go-back-up-a {
   background: none;
   padding: 0;
   padding-bottom: 10px;
