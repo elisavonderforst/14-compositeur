@@ -7,7 +7,7 @@ body {
   margin: auto;
   background-position: center;
   background-size: 400px;
-  background-image: url(../img/background_image_avec_plus_espace_carre_petit.svg);
+  background-image: url(../img/background_image.svg);
   background-repeat: no-repeat;
   background-position-y: bottom;
   background-position-x: center;
@@ -91,17 +91,14 @@ footer {
 }
 
 .wendy-carlos {
-  margin-bottom: 0;
+  max-width: 320px;
+  margin-left: 10px;
 } 
 
-.legende {
+.legende-wendy {
   font-size: 13px;
-  margin-top: 17px;
-}
 
-.legende-musique {
-  font-size: 13px;
-  margin-top: 0;
+  margin-left: 48px;
 }
 
 .hr-noir {
@@ -118,6 +115,7 @@ footer {
 .synopsis {
   margin-bottom: 20px;
 }
+
 .stanley {
   max-width: 288px;
   margin-left: 20px;
@@ -133,12 +131,17 @@ footer {
   margin-top: 120px;
 }
 
-.musique {
+.musique-text {
   margin-bottom: 40px;
 }
 
+.legende-musique {
+  font-size: 13px;
+  margin-top: 0;
+}
+
 .archives {
-  margin-bottom: 230px;
+  margin-bottom: 225px;
 }
 
 .archives-title {
