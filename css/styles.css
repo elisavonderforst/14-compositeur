@@ -58,6 +58,7 @@ iframe {
 
 footer {
   text-align: center;
+  margin-bottom: 20px;
 }
 
 .container {
@@ -101,6 +102,10 @@ footer {
   font-size: 13px;
 }
 
+.archives {
+  margin-bottom: 280px;
+}
+
 .footer-1 {
   font-family: 'Climate Crisis', cursive;
   color: white;
@@ -121,10 +126,13 @@ footer {
 }
 
 .remonter {
-  max-width: 40px;
+  max-width: 35px;
   margin-left: 140px;
+  padding: 10px;
 }
 
 .remonter-a {
-  op
+  background: none;
+  padding: 0;
+  padding-bottom: 10px;
 }
