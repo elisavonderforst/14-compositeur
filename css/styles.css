@@ -98,7 +98,8 @@ footer {
 
 .legende-wendy {
   font-size: 13px;
-  margin-left: 48px;
+  margin-left: 40px;
+  font-weight: 700;
 }
 
 .hr-noir {
@@ -125,6 +126,7 @@ footer {
 .legende-stanley {
   font-size: 13px;
   margin-left: 20px;
+  font-weight: 700;
 }
 
 .musique-text {
@@ -134,6 +136,7 @@ footer {
 .legende-musique {
   font-size: 13px;
   margin-top: 0;
+  font-weight: 700;
 }
 
 .archives-div {
@@ -143,6 +146,7 @@ footer {
 .archives-title {
   margin-top: 117px;
 }
+
 .alex-1 {
   max-width: 300px;
   margin-top: 70px;
@@ -152,10 +156,11 @@ footer {
 .legende-bande-1 {
   font-size: 13px;
   margin-left: 55px;
+  font-weight: 700;
 }
 
 .alex-2 {
-  max-width: 290px;
+  max-width: 288px;
   margin-top: 70px;
   margin-left: 21px;
 }
@@ -163,10 +168,11 @@ footer {
 .legende-bande-2 {
   font-size: 13px;
   margin-left: 21px;
+  font-weight: 700;
 }
 
 .alex-3 {
-  max-width: 225px;
+  max-width: 224px;
   margin-left: 70px;
   margin-top: 70px;
 }
@@ -174,10 +180,11 @@ footer {
 .legende-bande-3 {
   margin-left: 112px;
   font-size: 13px;
+  font-weight: 700;
 }
 
 .alex-4 {
-  max-width: 255px;
+  max-width: 260px;
   margin-top: 70px;
   margin-left: 30px;
 }
@@ -185,6 +192,7 @@ footer {
 .legende-bande-4 {
   margin-left: 30px;
   font-size: 13px;
+  font-weight: 700;
 }
 
 .alex-5 {
@@ -196,6 +204,7 @@ footer {
 .legende-bande-5 {
   font-size: 13px;
   margin-left: 30px;
+  font-weight: 700;
 }
 
 .footer-1 {
