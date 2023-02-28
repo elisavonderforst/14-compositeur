@@ -18,6 +18,17 @@ img {
   max-width: 100%;
 }
 
+a {
+  background: #E95E2E;
+  text-decoration: none;
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 13px;
+  padding: 8px 6px;
+  margin-top: 11px;
+  border-radius: 15px;
+}
+
 h1 {
   font-size: 32px;
   font-family: 'Climate Crisis', cursive;
@@ -55,17 +66,6 @@ td {
   padding-bottom: 5px;
   padding-top: 10px;
   border-bottom: 1.5px solid #E95E2E;
-}
-
-a {
-  background: #E95E2E;
-  text-decoration: none;
-  color: white;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 13px;
-  padding: 11px 6px;
-  margin-top: 11px;
-  border-radius: 15px;
 }
 
 iframe {
