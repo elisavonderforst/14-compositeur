@@ -7,7 +7,7 @@ body {
   margin: auto;
   background-position: center;
   background-size: 400px;
-  background-image: url(../img/background-image.svg);
+  background-image: url(../img/background_image_plus_court.svg);
   background-repeat: no-repeat;
 }
 
@@ -32,6 +32,7 @@ h2 {
 h3 {
   font-family: 'Climate Crisis', cursive;
   font-size: 18px;
+  margin-top: 120px;
 }
 
 p,
@@ -106,6 +107,15 @@ footer {
   margin-bottom: 280px;
 }
 
+.alex-1 {
+  max-width: 475px;
+}
+
+.alex-5 {
+  max-width:270px;
+  margin-top: 80px;
+}
+
 .footer-1 {
   font-family: 'Climate Crisis', cursive;
   color: white;
@@ -136,3 +146,5 @@ footer {
   padding: 0;
   padding-bottom: 10px;
 }
+
+
