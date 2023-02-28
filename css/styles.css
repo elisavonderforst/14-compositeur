@@ -98,7 +98,6 @@ footer {
 
 .legende-wendy {
   font-size: 13px;
-
   margin-left: 48px;
 }
 
@@ -128,10 +127,6 @@ footer {
   margin-left: 20px;
 }
 
-.musiques {
-  margin-top: 120px;
-}
-
 .musique-text {
   margin-bottom: 40px;
 }
@@ -141,7 +136,7 @@ footer {
   margin-top: 0;
 }
 
-.archives {
+.archives-div {
   margin-bottom: 202px;
 }
 
@@ -154,7 +149,7 @@ footer {
   margin-left: -10px;
 }
 
-.legende-bandes-1 {
+.legende-bande-1 {
   font-size: 13px;
   margin-left: 55px;
 }
@@ -165,7 +160,7 @@ footer {
   margin-left: 21px;
 }
 
-.legende-bandes-2 {
+.legende-bande-2 {
   font-size: 13px;
   margin-left: 21px;
 }
@@ -176,7 +171,7 @@ footer {
   margin-top: 70px;
 }
 
-.legende-bandes-3 {
+.legende-bande-3 {
   margin-left: 112px;
   font-size: 13px;
 }
@@ -187,7 +182,7 @@ footer {
   margin-left: 30px;
 }
 
-.legende-bandes-4 {
+.legende-bande-4 {
   margin-left: 30px;
   font-size: 13px;
 }
@@ -198,7 +193,7 @@ footer {
   margin-left: 30px;
 }
 
-.legende-bandes-5 {
+.legende-bande-5 {
   font-size: 13px;
   margin-left: 30px;
 }
