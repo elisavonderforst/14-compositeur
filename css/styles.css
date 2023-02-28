@@ -21,8 +21,8 @@ img {
 h1 {
   font-size: 32px;
   font-family: 'Climate Crisis', cursive;
-  margin-top: 0;
-  word-spacing: 2;
+  margin-top: 5px;
+  margin-left: 4px;
 }
 
 h2 {
