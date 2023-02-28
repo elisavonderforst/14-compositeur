@@ -5,9 +5,11 @@ html {
 body {
   max-width: 320px;
   margin: auto;
-  background: white;
   background-position: center;
   background-size: 400px;
+  background-image: url(../img/background-image.png);
+  background-repeat: no-repeat;
+  background-position-y: top;
 }
 
 img {
@@ -50,7 +52,10 @@ a {
   border-radius: 15px;
 }
 
-
+iframe {
+  margin-top: 34px;
+  margin-bottom: 8.5px;
+}
 
 .container {
   display: flex;
@@ -76,4 +81,21 @@ a {
 
 .footer {
   background-image: url(../img/footer_fond.png);
+}
+
+.table {
+  font-size: 10px;
+}
+
+.legende-musique {
+  font-size: 13px;
+  margin-top: 0;
+}
+
+.hr-noir {
+  border-color: black;
+}
+
+.hr-orange {
+  border-color: #E95E2E;
 }
