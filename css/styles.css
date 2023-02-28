@@ -34,7 +34,7 @@ h2 {
 h3 {
   font-family: 'Climate Crisis', cursive;
   font-size: 18px;
-  margin-top: 120px;
+  margin-top: 126px;
   letter-spacing: 2px;
 }
 
@@ -96,21 +96,27 @@ footer {
 }
 
 .hr-noir {
-  border-color: black;
+  border: 2px solid black;
   margin-top: 40px;
   margin-right: -28px;
 }
 
 .hr-orange {
-  border-color: #E95E2E;
+  border: 2px solid #E95E2E;
   margin-left: -28px;
+}
+
+.stanley {
+  max-width: 288px;
+  margin-left: 20px;
 }
 
 .legende-stanley {
   font-size: 13px;
+  margin-left: 20px;
 }
 
-.musique {
+.musiques {
   margin-bottom: 68px;
 }
 
@@ -178,18 +184,21 @@ footer {
   color: white;
   margin-bottom: 8px;
   font-size: 11px;
+  letter-spacing: 1px;
 }
 
 .footer-2 {
   font-family: 'Climate Crisis', cursive;
   font-size: 11px;
   margin-top: 0;
+  letter-spacing: 1px;
 }
 
 .footer-3 {
   font-family: 'Climate Crisis', cursive;
   font-size: 18px;
   margin-top: 0;
+  letter-spacing: 1px;
 }
 
 .remonter {
