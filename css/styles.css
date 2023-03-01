@@ -5,7 +5,6 @@ html {
 body {
   max-width: 320px;
   margin: auto;
-  background-position: center;
   background-size: 400px;
   background-image: url(../img/background_image.svg);
   background-repeat: no-repeat;
@@ -72,7 +71,6 @@ td {
 
 iframe {
   margin-top: 34px;
-  margin-bottom: 0;
 }
 
 span {
@@ -80,21 +78,17 @@ span {
 }
 
 footer {
-  text-align: justify;
   line-height: 10px;
   margin-bottom: 40px;
 }
 
 .container {
   display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
   justify-content: space-around;
 }
 
 .image-header {
   margin-top: 27px;
-  margin-bottom: 0px;
 }
 
 .wendy-carlos {
@@ -105,8 +99,8 @@ footer {
 
 .legend-wendy {
   font-size: 13px;
-  margin-left: 40px;
   font-weight: 700;
+  margin-left: 40px;
 }
 
 .hr-black {
@@ -132,8 +126,8 @@ footer {
 
 .legend-stanley {
   font-size: 13px;
-  margin-left: 20px;
   font-weight: 700;
+  margin-left: 20px;
 }
 
 .music-text {
@@ -142,8 +136,8 @@ footer {
 
 .legend-music {
   font-size: 13px;
-  margin-top: 0;
   font-weight: 700;
+  margin-top: 0;
   margin-top: -15px;
 }
 
@@ -163,8 +157,8 @@ footer {
 
 .legend-band-homeless {
   font-size: 13px;
-  margin-left: 55px;
   font-weight: 700;
+  margin-left: 55px;
 }
 
 .alex-lollipo {
@@ -175,8 +169,8 @@ footer {
 
 .legend-band-lollipo {
   font-size: 13px;
-  margin-left: 21px;
   font-weight: 700;
+  margin-left: 21px;
 }
 
 .alex-glass {
@@ -186,9 +180,9 @@ footer {
 }
 
 .legend-band-glass {
-  margin-left: 112px;
   font-size: 13px;
   font-weight: 700;
+  margin-left: 112px;
 }
 
 .alex-violent {
@@ -198,9 +192,9 @@ footer {
 }
 
 .legend-band-violent {
-  margin-left: 30px;
   font-size: 13px;
   font-weight: 700;
+  margin-left: 30px;
 }
 
 .alex-prison {
@@ -211,8 +205,8 @@ footer {
 
 .legend-band-prison {
   font-size: 13px;
-  margin-left: 30px;
   font-weight: 700;
+  margin-left: 30px;
 }
 
 .footer-web-director {
@@ -221,8 +215,7 @@ footer {
   margin-bottom: 8px;
   font-size: 11px;
   letter-spacing: 1px;
-  text-align: justify;
-  margin-left: 78px;
+  margin-left: 80px;
 }
 
 .footer-elisa-kubrick {
@@ -230,8 +223,7 @@ footer {
   font-size: 11px;
   margin-top: 0;
   letter-spacing: 1px;
-  text-align: justify;
-  margin-left: 79px;
+  margin-left: 80px;
 } 
 
 .footer-wendy {
@@ -245,7 +237,6 @@ footer {
 .footer-orangeclockwork {
   font-family: 'Climate Crisis', cursive;
   font-size: 11px;
-  margin-top: 0;
   letter-spacing: 1px;
   margin-left: 77px;
 }
@@ -256,13 +247,12 @@ footer {
   margin-bottom: 8px;
   font-size: 11px;
   letter-spacing: 1px;
-  text-align: justify;
   margin-left: 79px;
 }
 
 .go-back-up {
   max-width: 35px;
-  margin-left: 140px;
+  margin-left: 130px;
   padding: 10px;
 }
 
