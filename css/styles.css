@@ -48,7 +48,7 @@ h2 {
 h3 {
   font-family: 'Climate Crisis', cursive;
   font-size: 18px;
-  margin-top: 33px;
+  margin-top: 40px;
   letter-spacing: 2px;
 }
 
@@ -59,7 +59,7 @@ p {
 }
 
 table {
-  margin-bottom: 23px;
+  margin-bottom: 70px;
 }
 
 td {
@@ -72,7 +72,7 @@ td {
 
 iframe {
   margin-top: 34px;
-  margin-bottom: 8.5px;
+  margin-bottom: 0;
 }
 
 span {
@@ -144,6 +144,7 @@ footer {
   font-size: 13px;
   margin-top: 0;
   font-weight: 700;
+  margin-top: -15px;
 }
 
 .archives-div {
