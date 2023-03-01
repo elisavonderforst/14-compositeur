@@ -155,67 +155,67 @@ footer {
   margin-top: 117px;
 }
 
-.alex-1 {
+.alex-homeless {
   max-width: 300px;
   margin-top: 65px;
   margin-left: -10px;
 }
 
-.legend-band-1 {
+.legend-band-homeless {
   font-size: 13px;
   margin-left: 55px;
   font-weight: 700;
 }
 
-.alex-2 {
+.alex-lollipo {
   max-width: 290px;
   margin-top: 70px;
   margin-left: 21px;
 }
 
-.legend-band-2 {
+.legend-band-lollipo {
   font-size: 13px;
   margin-left: 21px;
   font-weight: 700;
 }
 
-.alex-3 {
+.alex-glass {
   max-width: 224px;
   margin-left: 70px;
   margin-top: 70px;
 }
 
-.legend-band-3 {
+.legend-band-glass {
   margin-left: 112px;
   font-size: 13px;
   font-weight: 700;
 }
 
-.alex-4 {
+.alex-violent {
   max-width: 256px;
   margin-top: 70px;
   margin-left: 30px;
 }
 
-.legend-band-4 {
+.legend-band-violent {
   margin-left: 30px;
   font-size: 13px;
   font-weight: 700;
 }
 
-.alex-5 {
+.alex-prison {
   max-width: 278px;
   margin-top: 70px;
   margin-left: 30px;
 }
 
-.legend-band-5 {
+.legend-band-prison {
   font-size: 13px;
   margin-left: 30px;
   font-weight: 700;
 }
 
-.footer-1 {
+.footer-web-director {
   font-family: 'Climate Crisis', cursive;
   color: white;
   margin-bottom: 8px;
@@ -225,7 +225,7 @@ footer {
   margin-left: 78px;
 }
 
-.footer-5 {
+.footer-elisa-kubrick {
   font-family: 'Climate Crisis', cursive;
   font-size: 11px;
   margin-top: 0;
@@ -234,7 +234,7 @@ footer {
   margin-left: 79px;
 } 
 
-.footer-3 {
+.footer-wendy {
   font-family: 'Climate Crisis', cursive;
   font-size: 18px;
   margin-top: 0;
@@ -250,20 +250,11 @@ footer {
   margin-left: 77px;
 }
 
-.footer-4 {
+.footer-composer {
   font-family: 'Climate Crisis', cursive;
   color: white;
   margin-bottom: 8px;
   font-size: 11px;
-  letter-spacing: 1px;
-  text-align: justify;
-  margin-left: 79px;
-}
-
-.footer-5 {
-  font-family: 'Climate Crisis', cursive;
-  font-size: 11px;
-  margin-top: 0;
   letter-spacing: 1px;
   text-align: justify;
   margin-left: 79px;
