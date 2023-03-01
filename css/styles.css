@@ -80,8 +80,9 @@ span {
 }
 
 footer {
-  text-align: center;
-
+  text-align: justify;
+  line-height: 10px;
+  margin-bottom: 40px;
 }
 
 .container {
@@ -146,7 +147,7 @@ footer {
 }
 
 .archives-div {
-  margin-bottom: 222px;
+  margin-bottom: 227px;
 }
 
 .archives-title {
@@ -219,20 +220,52 @@ footer {
   margin-bottom: 8px;
   font-size: 11px;
   letter-spacing: 1px;
+  text-align: justify;
+  margin-left: 78px;
 }
 
-.footer-2 {
+.footer-5 {
   font-family: 'Climate Crisis', cursive;
   font-size: 11px;
   margin-top: 0;
   letter-spacing: 1px;
-}
+  text-align: justify;
+  margin-left: 79px;
+} 
 
 .footer-3 {
   font-family: 'Climate Crisis', cursive;
   font-size: 18px;
   margin-top: 0;
   letter-spacing: 1px;
+  margin-left: 79px;
+}
+
+.footer-orangeclockwork {
+  font-family: 'Climate Crisis', cursive;
+  font-size: 11px;
+  margin-top: 0;
+  letter-spacing: 1px;
+  margin-left: 77px;
+}
+
+.footer-4 {
+  font-family: 'Climate Crisis', cursive;
+  color: white;
+  margin-bottom: 8px;
+  font-size: 11px;
+  letter-spacing: 1px;
+  text-align: justify;
+  margin-left: 79px;
+}
+
+.footer-5 {
+  font-family: 'Climate Crisis', cursive;
+  font-size: 11px;
+  margin-top: 0;
+  letter-spacing: 1px;
+  text-align: justify;
+  margin-left: 79px;
 }
 
 .go-back-up {
